@@ -30,8 +30,6 @@ git clone https://github.com/kalecaner/Eth-Soldity.git
 
 cd challenge-1-decentralized-staking
 
-git checkout challenge-1-decentralized-staking
-
 yarn install
 
 ```
