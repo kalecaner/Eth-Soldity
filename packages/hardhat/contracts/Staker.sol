@@ -36,7 +36,7 @@ contract Staker {
 
   // Collect funds in a payable `stake()` function and track individual `balances` with a mapping:
   // ( Make sure to add a `Stake(address,uint256)` event and emit it for the frontend <List/> display )
->>>>>>> 6f8ebb675d579c33c2aa0a81b1d342e91e6edb94
+
 
   constructor(address exampleExternalContractAddress) {
     exampleExternalContract = ExampleExternalContract(exampleExternalContractAddress);
